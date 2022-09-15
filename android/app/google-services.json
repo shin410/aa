@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947674091075",
+    "project_id": "dog-list-page",
+    "storage_bucket": "dog-list-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947674091075:android:e946d829f0344e9e838ef6",
+        "android_client_info": {
+          "package_name": "com.example.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947674091075-kou6eri821l3pqvt9qrpkhb4smasabom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjvhRJui-GfG4kxlxTTTi0S-eekZcHM6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947674091075-kou6eri821l3pqvt9qrpkhb4smasabom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
